@@ -6,6 +6,9 @@ A powerful, professional-grade application for converting and organizing images 
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Production-green)
+![GitHub release](https://img.shields.io/github/v/release/kstra3/image-to-pdf-organizer)
+![GitHub stars](https://img.shields.io/github/stars/kstra3/image-to-pdf-organizer)
+![GitHub forks](https://img.shields.io/github/forks/kstra3/image-to-pdf-organizer)
 
 ## ✨ Key Features
 
