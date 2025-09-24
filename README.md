@@ -342,13 +342,6 @@ dist/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Pillow**: Python Imaging Library for image processing
-- **img2pdf**: Efficient image-to-PDF conversion
-- **PyQt5**: Professional GUI framework
-- **Contributors**: Thanks to all contributors and beta testers
-
 ---
 
 **Image-to-PDF Organizer Professional v2.0**  
